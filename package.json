@@ -1,0 +1,21 @@
+{
+  "name": "ejemplos",
+  "version": "1.0.0",
+  "main": "nro_1_model_users.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
